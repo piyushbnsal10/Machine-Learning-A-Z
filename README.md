@@ -1,0 +1,1 @@
+This repo contain contain alll the machine learning projects from MACHINE LEARNING A-Z Course.
